@@ -1,0 +1,23 @@
+{
+  "name": "puissance4",
+  "version": "1.0.0",
+  "description": "4-in-a-row tutorial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpoesmann-bts/puissance4.git"
+  },
+  "author": "Vincent POESMANN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vpoesmann-bts/puissance4/issues"
+  },
+  "homepage": "https://github.com/vpoesmann-bts/puissance4#readme",
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "typescript": "^4.0.3"
+  }
+}
